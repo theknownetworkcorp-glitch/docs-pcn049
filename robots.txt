@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog.oddsyx.com/sitemap.xml
